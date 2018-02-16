@@ -1,0 +1,30 @@
+.header {
+  background-position: center center;
+  background-repeat: no-repeat;
+  overflow: hidden;
+}
+
+.header a {
+  color: #FFFFFF;
+  font-size: 18px;
+  font-weight: 600;
+  padding: 10px 0 10px;
+  text-transform: uppercase;
+}
+
+.header a:hover {
+  color: grey;
+}
+
+.dropdown-menu {
+  background: #EDEFF1;
+  height: auto;
+  width: 100%;
+  padding-left: 5px;
+  border-bottom: 1px solid #CCCCCC;
+  border-top: 1px solid #DDDDDD;
+}
+.dropdown-menu a {
+  color: #78828D;
+  font-size: 12px;
+}

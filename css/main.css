@@ -1,0 +1,10 @@
+.container_body {
+  padding-top: 50px;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  overflow:hidden;
+  max-width: 1300px;
+  min-height:550px;
+}
