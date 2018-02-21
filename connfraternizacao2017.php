@@ -1,4 +1,4 @@
-<?php $title = "Inicial"; ?>
+<?php $title = "2017"; ?>
 
 <?php include 'layout/header.php'; ?>
 <?php include 'navbar.php'; ?>

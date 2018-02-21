@@ -59,7 +59,7 @@ Links Informativos
 <a class="dropdown-item" href="#">Artigos</a>
 <!-- <a class="dropdown-item" href="#">Ana Tereza fala em São Paulo sobre o Direito de Regresso no Fomento Comercial</a> -->
 <a class="dropdown-item" href="#">Galeria</a>
-<a class="dropdown-item" href="#">Confraternização 2017</a>
+<a class="dropdown-item" href="connfraternizacao2017.php">Confraternização 2017</a>
 
 </div>
 </li>
