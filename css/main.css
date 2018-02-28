@@ -1,10 +1,10 @@
 .container_body {
-  padding-top: 50px;
-  padding-right: 15px;
-  padding-left: 15px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-right: 2px;
+  padding-left: 2px;
   margin-right: auto;
   margin-left: auto;
   overflow:hidden;
-  max-width: 1300px;
   min-height:550px;
 }

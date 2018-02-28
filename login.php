@@ -57,9 +57,9 @@ input[type="submit"]{
   text-transform:uppercase;
   border:1px solid #000;
   opacity:0.7;
-	-webkit-box-shadow: 0 8px 6px -6px rgba(0,0,0,0.7);
+  -webkit-box-shadow: 0 8px 6px -6px rgba(0,0,0,0.7);
   -moz-box-shadow: 0 8px 6px -6px rgba(0,0,0,0.7);
-	box-shadow: 0 8px 6px -6px rgba(0,0,0,0.7);
+  box-shadow: 0 8px 6px -6px rgba(0,0,0,0.7);
   border-top:1px solid rgba(255,255,255,0.8)!important;
   -webkit-box-reflect: below 0px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(50%, transparent), to(rgba(255,255,255,0.2)));
 }
@@ -73,14 +73,14 @@ input[type="submit"]:hover{
 <main role="main" class="container_body">
 <div class="container">
     <div class="row vertical-offset-100">
-    	<div class="col-md-4 col-md-offset-4">
-    	<div class="panel panel-default">
-            <div class="panel-heading" style="height:120; width:330;">
-                <img src="img/Fundo Branco.JPG" alt="" height="100%" width="100%">
-            </div> <!-- height="120" width="330" -->
+      <div class="col-md-4 col-md-offset-4">
+      <div class="panel panel-default">
             <div class="panel-body">
                 <form action="#" accept-charset="UTF-8" method="POST">
                 <fieldset>
+                    <div class="container-fluid" style="height:120; width:357;">
+                        <img src="img/Fundo Branco.JPG" alt="" height="100%" width="100%">
+                    </div> <!-- height="120" width="330" -->
                     <!-- <div id="errow" style="<?php echo $msg ?>"><p>Usuário ou senha incorreto!</p></div> -->
                     <div class="form-group">
                         <input id="username" class="form-control" placeholder="Usuário (usuário do computador)" name="username" type="text">
@@ -92,8 +92,8 @@ input[type="submit"]:hover{
                 </fieldset>
                 </form>
             </div>
-	</div>
-	</div>
+  </div>
+  </div>
     </div>
 </div>
 </main>

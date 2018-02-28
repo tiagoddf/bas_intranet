@@ -1,3 +1,4 @@
+<header>
 <nav class="navbar navbar-expand-sm navbar-light bg-faded" style="background-color: #083F2C;">
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#nav-content" aria-controls="nav-content" aria-expanded="false" aria-label="Toggle navigation">
 <span class="navbar-toggler-icon"></span>
@@ -7,7 +8,7 @@
 <a class="navbar-brand" href="#"> <img src="img/logo-basilio.png" alt="" height="60" width="160"></a>
 
 <!-- Links -->
-<div class="collapse navbar-collapse" id="nav-content">   
+<div class="collapse navbar-collapse" id="nav-content">
 <ul class="navbar-nav">
     
 <li class="nav-item">
@@ -95,10 +96,7 @@ R.H.
 <a class="nav-link" href="#">Client Care</a>
 </li>
 
-
 </ul>
-<li class="nav-item">
-<a class="nav-link" href="logout.php">LOGOUT</a>
-</li>
 </div>
 </nav>
+</header>
